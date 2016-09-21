@@ -5,3 +5,11 @@ $navbar-default-link-color: white;
 $brand-primary: #2ecc71;
 $jumbotron-bg: #8e44ad;
 @import 'bootstrap';
+
+ .center {
+   text-align: center;
+ }
+
+ .navbar-brand {
+   font-weight: bold;
+ }
